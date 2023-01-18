@@ -36,10 +36,10 @@ export default function () {
                         </div>
                         <div className=' lg:flex lg:space-x-2 lg:mx-2 '>
                             <div className="px-3 py-3 lg:px-10  lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3 ">
-                                <img className="w-[500px] drop-shadow-2xl mx-auto my-auto" src={SIAs}></img>
+                                <img className=" drop-shadow-2xl mx-auto my-auto" src={SIAs}></img>
                             </div>
                             <div className="px-3 py-3  lg:px-10  lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3 ">
-                                <img className="w-[500px] drop-shadow-2xl mx-auto my-auto" src={SIAi}></img>
+                                <img className=" drop-shadow-2xl mx-auto my-auto" src={SIAi}></img>
                             </div>
                             <div className="px-3 py-3 lg:px-10 lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3 ">
                                 <img className=" drop-shadow-2xl mx-auto my-auto" src={SIAa}></img>
@@ -56,13 +56,13 @@ export default function () {
                         </div>
                         <div className=' lg:flex lg:space-x-2 lg:mx-2 '>
                             <div className="px-3 py-3 lg:px-10  lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3 ">
-                                <img className="w-[500px] drop-shadow-2xl mx-auto my-auto" src={Spider}></img>
+                                <img className=" drop-shadow-2xl mx-auto my-auto" src={Spider}></img>
                             </div>
                             <div className="px-3 py-3 lg:px-10  lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3">
-                                <img className="w-[500px] drop-shadow-2xl mx-auto my-auto" src={macbeth}></img>
+                                <img className=" drop-shadow-2xl mx-auto my-auto" src={macbeth}></img>
                             </div>
                             <div className="px-3 py-3 lg:px-10  lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3">
-                                <img className="w-[500px] drop-shadow-2xl mx-auto my-auto" src={Tombe}></img>
+                                <img className=" drop-shadow-2xl mx-auto my-auto" src={Tombe}></img>
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@ export default function () {
                                 </h1>
                             </div>
                             <div className="flex justify-between px-10 py-[100px] mt-2 bg-[#e8e8e8]">
-                                <img className="w-[500px] drop-shadow-2xl mx-auto my-auto " src={Hurricane}></img>
+                                <img className=" drop-shadow-2xl mx-auto my-auto " src={Hurricane}></img>
                             </div>
                         </div>
                         <div className="lg:w-1/2">
@@ -87,7 +87,7 @@ export default function () {
                                 </h1>
                             </div>
                             <div className="flex justify-between px-10 py-[100px] mt-2 bg-[#e8e8e8] ">
-                                <img className="w-[490px] bg-white drop-shadow-2xl mx-auto" src={Machbeth}></img>
+                                <img className="bg-white drop-shadow-2xl mx-auto" src={Machbeth}></img>
                             </div>
                         </div>
                     </div>
@@ -100,12 +100,12 @@ export default function () {
                         <div className="lg:flex lg:space-x-2">
                             <div className='lg:w-1/2'>
                                 <div className="flex justify-between px-10 py-[100px] mt-2 bg-[#e8e8e8]">
-                                    <img className="w-[500px] drop-shadow-2xl mx-auto my-7" src={Infographie1}></img>
+                                    <img className=" drop-shadow-2xl mx-auto my-7" src={Infographie1}></img>
                                 </div>
                             </div>
                             <div className='lg:w-1/2'>
                                 <div className="flex justify-between px-10 py-[100px] mt-2 bg-[#e8e8e8]">
-                                    <img className="w-[500px] drop-shadow-2xl mx-auto my-7" src={Infographie2}></img>
+                                    <img className=" drop-shadow-2xl mx-auto my-7" src={Infographie2}></img>
                                 </div>
                             </div>
                         </div>
@@ -133,13 +133,13 @@ export default function () {
                                 PHOTO
                             </h1>
                         </div>
-                        <div className=' lg:flex lg:space-x-2  '>
-                            <div className="   lg:w-1/2 ">
-                                <img className=" drop-shadow-2xl mx-auto" src={push1}></img>
+                        <div className=' lg:flex lg:justify-between '>
+                            <div className="lg:w-1/2 ">
+                                <img className=" drop-shadow-2xl " src={push1}></img>
                             </div>
                           
                             <div className="   lg:w-1/2">
-                                <img className=" drop-shadow-2xl mx-auto " src={push3}></img>
+                                <img className=" drop-shadow-2xl  " src={push3}></img>
                             </div>
                         </div>
                         <div className=' lg:flex lg:space-x-2'>
