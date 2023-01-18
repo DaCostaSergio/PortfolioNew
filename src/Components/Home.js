@@ -8,7 +8,7 @@ export default function () {
     <div>
       <div>
         <div classname="">
-          <h1 className='pt-24 font-N27 text-center text-3xl lg:text-7xl pt-9 lg:pt-[120px] '>
+          <h1 className='pt-24 font-N27 text-center text-3xl lg:text-7xl pt-20 lg:pt-[75px]  '>
             HELLO! I'M SERGIO DA COSTA, BASED IN SWITZERLAND
           </h1>
         </div>
