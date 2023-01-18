@@ -42,7 +42,7 @@ export default function () {
                                 <img className="w-[500px] drop-shadow-2xl mx-auto my-auto" src={SIAi}></img>
                             </div>
                             <div className="px-3 py-3 lg:px-10 lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3 ">
-                                <img className="w-[500px] drop-shadow-2xl mx-auto my-auto" src={SIAa}></img>
+                                <img className=" drop-shadow-2xl mx-auto my-auto" src={SIAa}></img>
                             </div>
                         </div>
                     </div>
