@@ -2,7 +2,7 @@
 
 export default function () {
     return (
-        <div className="pt-10 mx-2 lg:mx-20">
+        <div className="pt-10 mx-2 md:mx-20">
             <div className="flex flex-col ">
                 <div className="mx-2 lg:mx-96">
                     <h1 className="font-N27 text-4xl  lg:text-9xl pt-20 lg:pt-[150px]">
@@ -106,14 +106,7 @@ export default function () {
                         </div>
                     </div>
                 </div>
-                <div>
-
-                </div>
-                <div>
-
-                </div>
             </div>
-
         </div>
     )
 }

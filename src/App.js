@@ -11,14 +11,14 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <div className="fixed bg-white w-full border-b-4 border-black z-50 ">
+        <div className="fixed bg-white w-full border-b-4 border-black z-50 md:px-10 ">
           <div >
-            <div className="lg:flex lg:justify-between font-N27 text-[28px] mx-2  lg:text-7xl">
+            <div className="lg:flex lg:justify-between font-N27 text-[28px] mx-2 md:text-5xl lg:text-7xl">
               <div >
                 <NavLink to="/" style={({ isActive }) => ({
                   color: isActive ? 'red' : 'black'
                 })}>
-                  SDC - PORTFOLIO
+                  SERGIO DA COSTA
                 </NavLink>
               </div>
               <div className="flex  justify-between lg:space-x-10 z-40">

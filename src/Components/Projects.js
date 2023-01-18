@@ -34,7 +34,7 @@ export default function () {
                                 2020 AFFICHES F4
                             </h1>
                         </div>
-                        <div className=' lg:flex lg:space-x-2 lg:mx-2 '>
+                        <div className=' md:flex md:space-x-2 lg:mx-2 '>
                             <div className="px-3 py-3 lg:px-10  lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3 ">
                                 <img className=" drop-shadow-2xl mx-auto my-auto" src={SIAs}></img>
                             </div>
@@ -54,7 +54,7 @@ export default function () {
                                 2019 AFFICHES A3
                             </h1>
                         </div>
-                        <div className=' lg:flex lg:space-x-2 lg:mx-2 '>
+                        <div className=' md:flex md:space-x-2 lg:mx-2 '>
                             <div className="px-3 py-3 lg:px-10  lg:py-[100px]  bg-[#e8e8e8] lg:w-1/3 ">
                                 <img className=" drop-shadow-2xl mx-auto my-auto" src={Spider}></img>
                             </div>
@@ -67,8 +67,8 @@ export default function () {
                         </div>
                     </div>
 
-                    <div className='lg:flex lg:space-x-2'>
-                        <div className="lg:w-1/2">
+                    <div className='md:flex md:space-x-2'>
+                        <div className="md:w-1/2">
                             <div >
                                 <h1 className='font-N27 text-3xl lg:text-7xl pt-9 lg:pt-[150px] '>
                                     HURRICANE HARVEY - <br></br>
@@ -79,7 +79,7 @@ export default function () {
                                 <img className=" drop-shadow-2xl mx-auto my-auto " src={Hurricane}></img>
                             </div>
                         </div>
-                        <div className="lg:w-1/2">
+                        <div className="md:w-1/2">
                             <div>
                                 <h1 className='font-N27 text-3xl lg:text-7xl pt-9 lg:pt-[150px] '>
                                     M SANG - <br></br>
@@ -97,13 +97,13 @@ export default function () {
                             INFOGRAPHIE - <br></br>
                             2019 AFFICHE F4
                         </h1>
-                        <div className="lg:flex lg:space-x-2">
-                            <div className='lg:w-1/2'>
+                        <div className="md:flex md:space-x-2">
+                            <div className='md:w-1/2'>
                                 <div className="flex justify-between px-10 py-[100px] mt-2 bg-[#e8e8e8]">
                                     <img className=" drop-shadow-2xl mx-auto my-7" src={Infographie1}></img>
                                 </div>
                             </div>
-                            <div className='lg:w-1/2'>
+                            <div className='md:w-1/2'>
                                 <div className="flex justify-between px-10 py-[100px] mt-2 bg-[#e8e8e8]">
                                     <img className=" drop-shadow-2xl mx-auto my-7" src={Infographie2}></img>
                                 </div>
@@ -111,7 +111,7 @@ export default function () {
                         </div>
 
                     </div>
-                    <div className='lg:w-1/2'>
+                    <div className='md:w-1/2'>
                         <div >
                             <h1 className='font-N27 text-3xl lg:text-7xl pt-9 lg:pt-[150px] '>
                                 SPECIMEN - <br></br>
@@ -133,25 +133,25 @@ export default function () {
                                 PHOTO
                             </h1>
                         </div>
-                        <div className=' lg:flex lg:justify-between '>
-                            <div className="lg:w-1/2 ">
+                        <div className=' md:flex md:justify-between '>
+                            <div className="md:w-1/2 ">
                                 <img className=" drop-shadow-2xl " src={push1}></img>
                             </div>
                           
-                            <div className="   lg:w-1/2">
+                            <div className="   md:w-1/2">
                                 <img className=" drop-shadow-2xl  " src={push3}></img>
                             </div>
                         </div>
-                        <div className=' lg:flex lg:space-x-2'>
-                            <div className=' lg:w-1/2 '>
+                        <div className=' md:flex lg:space-x-2'>
+                            <div className=' md:w-1/2 '>
                                 <img className=" lg:drop-shadow-2xl my-2" src={push5}></img>
                             </div>
-                            <div className=' lg:w-1/2 '>
+                            <div className=' md:w-1/2 '>
                                 <img className=" drop-shadow-2xl my-2" src={push7}></img>
                             </div>
                         </div>
                     </div>
-                    <div className='lg:w-1/2'>
+                    <div className='md:w-1/2'>
                         <div>
                             <h1 className='font-N27 text-3xl lg:text-7xl pt-9 lg:pt-[150px]  '>
                                 MASQUE - <br></br>2019
